@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/OP/OP_HW/HW_10/.idea/HW_10.iml" filepath="$USER_HOME$/PycharmProjects/OP/OP_HW/HW_10/.idea/HW_10.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/OP/OP_HW/HW_8/.idea/HW_8.iml" filepath="$USER_HOME$/PycharmProjects/OP/OP_HW/HW_8/.idea/HW_8.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/OP/OP_HW/.idea/OP_HW.iml" filepath="$USER_HOME$/PycharmProjects/OP/OP_HW/.idea/OP_HW.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/OP/OP_HW/HW_8/Queue/.idea/Queue.iml" filepath="$USER_HOME$/PycharmProjects/OP/OP_HW/HW_8/Queue/.idea/Queue.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/OP/OP_HW/HW_8/Stack/.idea/Stack.iml" filepath="$USER_HOME$/PycharmProjects/OP/OP_HW/HW_8/Stack/.idea/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/printName.py.iml" filepath="$PROJECT_DIR$/.idea/printName.py.iml" />
+    </modules>
+  </component>
+</project>
